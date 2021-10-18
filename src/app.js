@@ -10,7 +10,7 @@ let dolarBugun = 9.30
 console.log(dolarBugun)
 
 const eurDun = 11.2
-      //eurDun = 11
+      ///eurDun = 11
       console.log(eurDun)
 
       let konutKredileri = ["konut kredisi","Emlak konut kredisi","kamu konut kredisi","ozel konut kredisi"];
